@@ -1,0 +1,11 @@
+{
+  "name": "vipsrweb",
+  "version": "1.0.0",
+  "description": "VIP SR Signal Web",
+  "main": "script.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "BdShahed",
+  "license": "MIT"
+}
